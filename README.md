@@ -20,3 +20,4 @@ The DebugDataBandits have created a calculator in Spring Boot, which has been de
 ## Other Links
 
 - Click [here](https://github.com/AdityaS1426/SpringBootCalculator/issues) to access the Issues section of this repository. The Issues are organized by Class. Once clicked, each Class includes a purpose, descriptions, & links to important pieces of code.
+- Click [here](https://github.com/AdityaS1426/SpringBootCalculator/projects/1) to access the Scrum Board for this program, where a Back Log can be found, as well as the contribution that each team member made.
